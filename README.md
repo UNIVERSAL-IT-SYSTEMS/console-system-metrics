@@ -8,7 +8,9 @@ Windowsプラットフォームで下記の環境設定を読み書きするた�
 * ダブルクリックの許容範囲（幅と高さ）
 
 [SystemParametersInfo](https://msdn.microsoft.com/ja-jp/library/cc429946.aspx)
+
 [GetSystemMetrics](https://msdn.microsoft.com/ja-jp/library/cc429812.aspx)
+
 [GetDoubleClickTime](https://msdn.microsoft.com/ja-jp/library/cc364628.aspx)
 
 Example

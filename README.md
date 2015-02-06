@@ -7,6 +7,8 @@ Windowsプラットフォームで下記の環境設定を読み書きするた�
 * ダブルクリックの間隔時間
 * ダブルクリックの許容範囲（幅と高さ）
 
+**注記**: 単純にWindowsのAPIをコールしています。
+
 [SystemParametersInfo](https://msdn.microsoft.com/ja-jp/library/cc429946.aspx)
 
 [GetSystemMetrics](https://msdn.microsoft.com/ja-jp/library/cc429812.aspx)
